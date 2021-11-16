@@ -1,0 +1,60 @@
+body{   
+  
+  background-color: aquamarine; 
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  font-style: italic; 
+  
+} 
+
+table{ 
+  background-color: gray; 
+  border-style: solid;
+  border-width: 1px; 
+  border-color: black; 
+  border-collapse: collapse;
+} 
+
+th{ 
+  background-color: rgb(37, 35, 35);  
+  padding: 0%; 
+} 
+
+td{ 
+  padding: 0%;
+} 
+
+a{ 
+  display: inline-block; 
+  background: rgb(5, 56, 36); 
+  color: aqua; 
+  padding: 1%;
+  text-align: center; 
+  border-radius: 5px;
+  font-size: 20px;
+
+}
+
+a:hover{ 
+  background: darkmagenta; 
+}  
+
+
+img:hover{
+ 
+  box-sizing: border-box; 
+  border-style: inset;
+} 
+
+div1{ 
+  text-align: right; 
+  margin-top: 0%;
+}  
+
+.header img{
+  align-content: center;
+}  
+
+div2{ 
+  align-items: center;
+}
+
